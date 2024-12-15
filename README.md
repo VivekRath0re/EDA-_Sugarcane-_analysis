@@ -44,6 +44,6 @@ This GitHub repository contains an EDA project focusing on the production of sug
 - Fork the repository, make changes, and submit a pull request for review.
 
 ### Author:
-- Pranay Shah
+-Vivek Rathore
 
 ---
